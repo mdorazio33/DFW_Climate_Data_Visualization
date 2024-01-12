@@ -14,6 +14,6 @@ From it, the following visualizations were created using Python for the sake of 
 
 Each of the visualizations listed above along with a brief explanation of the insights derived from them can be found in the IPython Notebook called Climate_Data_Visualization_Project.ipynb
 
-Table of Contents:
+Table of Contents
 1) Climate_Data_Visualization_Project.ipynb - IPython Notebook showcasing the Python code used to create the visualizations listed above along with the successfully run outputs.
 2) DFW_Temperatures.csv - CSV file used to create the visualizations listed above. Feel free to download this if you seek to recreate this project or have an interest in performing your own analysis based on it.
